@@ -20,7 +20,7 @@ body{
     flex-direction: column;
     align-items: center;
 }
-#fullName, #password{
+#fullName, #password, #email{
     width: 50%;
     outline: none;
     border: none;
@@ -29,15 +29,7 @@ body{
     padding: 10px;
     margin: 5px;
 }
-#email{
-    width: 50%;
-    outline: none;
-    border: none;
-    height: 40px;
-    border-radius: 20px;
-    padding: 10px;
-    margin: 5px;
-}
+
 #submitBtn{
     background-color:aqua;
     color: black;
